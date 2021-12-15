@@ -98,9 +98,6 @@ section {
   padding-bottom: 3rem;
 }
 
-.navbar a:hover i {
-}
-
 /* ******************* HOME *************** */
 
 .home {
@@ -396,6 +393,7 @@ section {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   gap: 2rem;
+  margin-bottom: 4rem;
 }
 
 .contact .row .info-container {
